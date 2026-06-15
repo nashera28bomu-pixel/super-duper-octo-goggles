@@ -1,0 +1,16 @@
+{
+  "name": "cymor-speed",
+  "version": "1.0.0",
+  "description": "Cymor Speed - a fast, reliable internet speed tester by Cymor Tech Services",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
